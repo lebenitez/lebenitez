@@ -2,6 +2,10 @@
 
 ![Leandro Benitez GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebenitez&show_icons=true&theme=radical)
 
+
+![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lebenitez&theme=radical)
+
+
 <!--
 **lebenitez/lebenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
