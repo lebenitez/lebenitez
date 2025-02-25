@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Leandro Benitez GitHub stats](https://github-readme-stats.vercel.app/api?username=lebenitez&show_icons=true&theme=radical)
+![Leandro Benitez GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebenitez&show_icons=true&theme=radical)
 
 <!--
 **lebenitez/lebenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
